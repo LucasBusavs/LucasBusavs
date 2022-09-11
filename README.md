@@ -1,4 +1,4 @@
-## Olá eu sou o Lucas Bueno, entusiasta em programação e tecnologia!
+## Hello, I'm Lucas Bueno, programming and technology enthusiast!
 
 <div align="center">
  <a href="https://github.com/LucasBusavs">
